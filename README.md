@@ -10,7 +10,6 @@ I am a Computer Engineering graduate and software developer with a strong founda
 
 ### Projects  
 - **e_table** – Bar & Restaurant Management System (invoice management, discount logic, order lifecycle, advanced statistics)  
-- **JustBookIt** – Hotel Reservation System built with Spring Boot & Angular  
 - **Student-Course Registration System** – CRUD application with Spring Boot & Thymeleaf  
 
 ### Professional Focus  
