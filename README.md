@@ -14,3 +14,7 @@ I am a Computer Engineering graduate and software developer with a strong founda
 
 ### Professional Focus  
 I am passionate about building efficient, secure, and user-friendly applications. I continuously expand my knowledge in **software architecture, testing, and modern web frameworks** to improve development practices.  
+
+### Contact  
+- 📧 Email: [kevionasaliasi@gmail.com]  
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/keviona-saliasi-a352b4207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]  
