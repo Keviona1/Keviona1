@@ -1,16 +1,17 @@
-## Hi there 👋
+# Keviona Saliasi  
 
-<!--
-**Keviona1/Keviona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering graduate and software developer with a strong foundation in **Java Full Stack Development** (Spring Boot & Angular). My professional experience includes designing and developing web applications with a focus on performance, usability, and scalability.  
 
-Here are some ideas to get you started:
+### Technical Skills  
+- **Backend:** Java, Spring Boot, Hibernate, JDBC  
+- **Frontend:** Angular, HTML, CSS, Bootstrap, JavaScript  
+- **Databases:** MySQL, SQL  
+- **Other:** REST APIs, Git/GitHub, web hosting, domain management, basic SEO  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects  
+- **e_table** – Bar & Restaurant Management System (invoice management, discount logic, order lifecycle, advanced statistics)  
+- **JustBookIt** – Hotel Reservation System built with Spring Boot & Angular  
+- **Student-Course Registration System** – CRUD application with Spring Boot & Thymeleaf  
+
+### Professional Focus  
+I am passionate about building efficient, secure, and user-friendly applications. I continuously expand my knowledge in **software architecture, testing, and modern web frameworks** to improve development practices.  
